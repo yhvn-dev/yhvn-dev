@@ -18,22 +18,23 @@
 <h3 align="About Me">About Me:</h3>
 
 <p align="center">
-
-Hello! I am Jhunguide U. Flores from the Philippines, currently a 4th year college student at a private school there. I build Fullstack web applications with PERN stack
-known as PostgreSQL, ExpressJs, ReactJs and NodeJs. 
+Hello! I am Jhunguide U. Flores from the Philippines, a fresh BS Information Technology 
+graduate. I build Fullstack web applications focused on modern web technologies — 
+currently working with Next.js, TypeScript, and Supabase.
 
 I am focusing at:
-- Designing efficient database structures  
-- Building RESTful APIs  
-- Implementing secure user authentication systems  
+- Building performant, responsive frontend interfaces
+- Designing efficient database structures & REST APIs
+- Implementing analytics systems and admin dashboards
 
-I am profecient at:
-- UX/UI designs
+I am proficient at:
+- React / Next.js / TypeScript
+- PostgreSQL / Supabase
+- UX/UI Design
 
-   
 📫 Reach Me At **jhunguidef@gmail.com**
-   
 </p>
+
 
 
 <h3 align="start">Connect with me:</h3>
@@ -77,6 +78,15 @@ I am profecient at:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="60" height="60"/>
   </a>
+
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="60" height="60"/>
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="60" height="60"/>
+  </a>
+
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="react" width="60" height="60"/>
   </a>
