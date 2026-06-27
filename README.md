@@ -59,8 +59,9 @@ Reach Me At: **jhunguidef@gmail.com**
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
   </a>
   <a href="https://jhun-dev-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="60"/>
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="60" height="60"/>
   </a>
+  
 </p>
 
 
