@@ -23,16 +23,19 @@ graduate. I build Fullstack web applications focused on modern web technologies 
 currently working with Next.js, TypeScript, and Supabase.
 
 I am focusing at:
-- Building performant, responsive frontend interfaces
+- Building performance, responsive frontend interfaces
 - Designing efficient database structures & REST APIs
-- Implementing analytics systems and admin dashboards
+- Leveraging AI tools to build useful ideas and digital solutions
 
 I am proficient at:
 - React / Next.js / TypeScript
 - PostgreSQL / Supabase
 - UX/UI Design
 
-📫 Reach Me At **jhunguidef@gmail.com**
+Reach Me At: **jhunguidef@gmail.com**
+
+
+
 </p>
 
 
@@ -55,7 +58,11 @@ I am proficient at:
   <a href="https://github.com/yhvn-dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
   </a>
+  <a href="https://jhun-dev-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="60"/>
+  </a>
 </p>
+
 
 
 <h3 align="start">Languages and Tools:</h3>
