@@ -26,10 +26,11 @@ I am focusing at:
 - Building performance, responsive frontend interfaces
 - Designing efficient database structures & REST APIs
 - Leveraging AI tools to build useful ideas and digital solutions
+- Upskilling and learning new techs
 
 I am proficient at:
 - React / Next.js / TypeScript
-- Vue / Nuxt
+- Vue
 - PostgreSQL / Supabase
 - UX/UI Design
 
