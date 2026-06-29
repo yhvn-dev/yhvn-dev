@@ -29,6 +29,7 @@ I am focusing at:
 
 I am proficient at:
 - React / Next.js / TypeScript
+- Vue / Nuxt
 - PostgreSQL / Supabase
 - UX/UI Design
 
@@ -97,6 +98,14 @@ Reach Me At: **jhunguidef@gmail.com**
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="react" width="60" height="60"/>
+  </a>
+
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="60" height="60"/>
+  </a>
+
+  <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nuxt" alt="nuxt" width="60" height="60"/>
   </a>
    
 </p>
@@ -170,5 +179,3 @@ Reach Me At: **jhunguidef@gmail.com**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yhvn-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
-
-
