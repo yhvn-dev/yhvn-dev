@@ -105,9 +105,6 @@ Reach Me At: **jhunguidef@gmail.com**
     <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="60" height="60"/>
   </a>
 
-  <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nuxt" alt="nuxt" width="60" height="60"/>
-  </a>
    
 </p>
 
