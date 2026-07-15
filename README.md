@@ -17,28 +17,23 @@
 </h3>
 
 
-<h3 align="About Me">About Me:</h3>
+### About Me:
 
-<p align="center">
-Hello! I am Jhunguide U. Flores from the Philippines, a fresh BS Information Technology 
-graduate. I build Fullstack web applications focused on modern web technologies — 
-currently working with Next.js, TypeScript, and Supabase.
+Hello! I am Jhunguide U. Flores from the Philippines, a fresh BS Information Technology graduate. I build Fullstack web applications focused on modern web technologies — currently working with Next.js, TypeScript, and Supabase.
 
-I am focusing at:
+**I am focusing at:**
 - Building performance, responsive frontend interfaces
 - Designing efficient database structures & REST APIs
 - Leveraging AI tools to build useful ideas and digital solutions
 - Upskilling and learning new techs
 
-I am proficient at:
+**I am proficient at:**
 - React / Next.js / TypeScript
 - Node.js / Express.js
 - PostgreSQL / Supabase
 - UX/UI Design
 
-Reach Me At: **jhunguidef@gmail.com**
-
-</p>
+**Reach Me At:** jhunguidef@gmail.com
 
 <h3 align="start">Connect with me:</h3>
 
@@ -65,7 +60,7 @@ Reach Me At: **jhunguidef@gmail.com**
 
 <h3 align="start">Languages and Tools:</h3>
 
-<p align="start">Frontend: </p>
+**Frontend:**
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="html5" width="60" height="60"/>
@@ -96,7 +91,7 @@ Reach Me At: **jhunguidef@gmail.com**
   </a>
 </p>
 
-<p align="start">Backend: </p>
+**Backend:**
 <p align="center">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="60" height="60"/>
@@ -124,7 +119,7 @@ Reach Me At: **jhunguidef@gmail.com**
   </a>
 </p>
 
-<p align="start">Tools: </p>
+**Tools:**
 <p align="center">
    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="60" height="60"/>
@@ -137,7 +132,7 @@ Reach Me At: **jhunguidef@gmail.com**
   </a>
 </p>
 
-<p>________________________________________________________________________________________________________________________________________________</p>
+---
 
 <h3 align="center">📊 GitHub Stats</h3>
 
@@ -150,11 +145,13 @@ Reach Me At: **jhunguidef@gmail.com**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yhvn-dev&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=yhvn-dev&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yhvn-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yhvn-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies"/>
 </p>
+
+
