@@ -1,6 +1,12 @@
-<p align="center">
-  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=fff"/>
-</p>
+
+       __   __    __   __    __  .__   __.   _______  __    __   __   _______   _______     _______  __        ______   .______       _______     _______.
+      |  | |  |  |  | |  |  |  | |  \ |  |  /  _____||  |  |  | |  | |       \ |   ____|   |   ____||  |      /  __  \  |   _  \     |   ____|   /       |
+      |  | |  |__|  | |  |  |  | |   \|  | |  |  __  |  |  |  | |  | |  .--.  ||  |__      |  |__   |  |     |  |  |  | |  |_)  |    |  |__     |   (----`
+.--.  |  | |   __   | |  |  |  | |  . `  | |  | |_ | |  |  |  | |  | |  |  |  ||   __|     |   __|  |  |     |  |  |  | |      /     |   __|     \   \    
+|  `--'  | |  |  |  | |  `--'  | |  |\   | |  |__| | |  `--'  | |  | |  '--'  ||  |____    |  |     |  `----.|  `--'  | |  |\  \----.|  |____.----)   |   
+ \______/  |__|  |__|  \______/  |__| \__|  \______|  \______/  |__| |_______/ |_______|   |__|     |_______| \______/  | _| `._____||_______|_______/    
+                                                                                                                                                          
+                                                                                                                                                     
 
 <h1 align="center">
     Hi! I am Jhunguide Flores
@@ -30,13 +36,11 @@ I am focusing at:
 
 I am proficient at:
 - React / Next.js / TypeScript
-- Vue
+- Node.js / Express.js
 - PostgreSQL / Supabase
 - UX/UI Design
 
 Reach Me At: **jhunguidef@gmail.com**
-
-
 
 </p>
 
