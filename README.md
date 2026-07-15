@@ -132,25 +132,8 @@ Hello! I am Jhunguide U. Flores from the Philippines, a fresh BS Information Tec
 </p>
 
 ---
-
 <h3 align="left">📊 GitHub Stats</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yhvn-dev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yhvn-dev&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" />
-</p>
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=yhvn-dev&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
-<h3 align="left">🏆 GitHub Trophies</h3>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=yhvn-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
-
