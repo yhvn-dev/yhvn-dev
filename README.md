@@ -7,12 +7,11 @@
  ╚════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝╚═════╝ ╚══════╝    ╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-
-<h1 align="center">
+<h1 align="left">
     Hi! I am Jhunguide Flores
 </h1>
 
-<h3 align="center" style="color:#00FF00; font-family: monospace;">
+<h3 align="left" style="color:#00FF00; font-family: monospace;">
   Full Stack Web Developer · UI/UX Enthusiast · Building something new...
 </h3>
 
@@ -35,33 +34,10 @@ Hello! I am Jhunguide U. Flores from the Philippines, a fresh BS Information Tec
 
 **Reach Me At:** jhunguidef@gmail.com
 
-<h3 align="start">Connect with me:</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jhunguide-flores-74782934a/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="60" height="60"/>
-  </a>
-  <a href="https://facebook.com/jhvnflores" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="60" height="60" style="background-color:#2d2d2d; border-radius:12px; padding:8px;"/>
-  </a>
-  <a href="https://instagram.com/__jhvn" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="60" height="60"/>
-  </a>
-  <a href="https://discord.com/users/995662999270473748" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="60" height="60"/>
-  </a>
-  <a href="https://github.com/yhvn-dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
-  </a>
-  <a href="https://jhun-dev-portfolio.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="60" height="60"/>
-  </a>
-</p>
-
-<h3 align="start">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 **Frontend:**
-<p align="center">
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="html5" width="60" height="60"/>
   </a>
@@ -77,11 +53,11 @@ Hello! I am Jhunguide U. Flores from the Philippines, a fresh BS Information Tec
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="60" height="60"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="60" height="60"/>
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="60" height="60"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="60" height="60"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="react" width="60" height="60"/>
@@ -89,10 +65,13 @@ Hello! I am Jhunguide U. Flores from the Philippines, a fresh BS Information Tec
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="60" height="60"/>
   </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="60" height="60"/>
+  </a>
 </p>
 
 **Backend:**
-<p align="center">
+<p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="60" height="60"/>
   </a>
@@ -120,37 +99,57 @@ Hello! I am Jhunguide U. Flores from the Philippines, a fresh BS Information Tec
 </p>
 
 **Tools:**
-<p align="center">
-   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<p align="left">
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="60" height="60"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="git" width="60" height="60"/>
   </a>
-  <a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=wasm" alt="wamp" width="60" height="60"/>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jhunguide-flores-74782934a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="60" height="60"/>
+  </a>
+  <a href="https://facebook.com/jhvnflores" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="60" height="60" style="background-color:#2d2d2d; border-radius:12px; padding:8px;"/>
+  </a>
+  <a href="https://instagram.com/__jhvn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="60" height="60"/>
+  </a>
+  <a href="https://discord.com/users/995662999270473748" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="60" height="60"/>
+  </a>
+  <a href="https://github.com/yhvn-dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
+  </a>
+  <a href="https://jhun-dev-portfolio.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="60" height="60"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yhvn-dev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yhvn-dev&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=yhvn-dev&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="left">🏆 GitHub Trophies</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=yhvn-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
