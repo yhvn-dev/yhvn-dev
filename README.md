@@ -1,23 +1,11 @@
-
-       __   __    __   __    __  .__   __.   _______  __    __   __   _______   _______     _______  __        ______   .______       _______     _______.
-      |  | |  |  |  | |  |  |  | |  \ |  |  /  _____||  |  |  | |  | |       \ |   ____|   |   ____||  |      /  __  \  |   _  \     |   ____|   /       |
-      |  | |  |__|  | |  |  |  | |   \|  | |  |  __  |  |  |  | |  | |  .--.  ||  |__      |  |__   |  |     |  |  |  | |  |_)  |    |  |__     |   (----`
-.--.  |  | |   __   | |  |  |  | |  . `  | |  | |_ | |  |  |  | |  | |  |  |  ||   __|     |   __|  |  |     |  |  |  | |      /     |   __|     \   \    
-|  `--'  | |  |  |  | |  `--'  | |  |\   | |  |__| | |  `--'  | |  | |  '--'  ||  |____    |  |     |  `----.|  `--'  | |  |\  \----.|  |____.----)   |   
- \______/  |__|  |__|  \______/  |__| \__|  \______|  \______/  |__| |_______/ |_______|   |__|     |_______| \______/  | _| `._____||_______|_______/    
-                                                                                                                                                          
-                                                                                                                                                     
+</p>
 
 <h1 align="center">
     Hi! I am Jhunguide Flores
 </h1>
 
-
-<h3 align="center">
-   
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&width=600&lines=Full+Stack+Web+Developer;UI%2FUX+Enthusiast;Future+Oriented;Building+something+new..." alt="Typing Effect"/>
-
+<h3 align="center" style="color:#00FF00; font-family: monospace;">
+  Full Stack Web Developer · UI/UX Enthusiast · Building something new...
 </h3>
 
 
@@ -44,8 +32,6 @@ Reach Me At: **jhunguidef@gmail.com**
 
 </p>
 
-
-
 <h3 align="start">Connect with me:</h3>
 
 <p align="center">
@@ -67,13 +53,9 @@ Reach Me At: **jhunguidef@gmail.com**
   <a href="https://jhun-dev-portfolio.vercel.app" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="60" height="60"/>
   </a>
-  
 </p>
 
-
-
 <h3 align="start">Languages and Tools:</h3>
-
 
 <p align="start">Frontend: </p>
 <p align="center">
@@ -92,29 +74,22 @@ Reach Me At: **jhunguidef@gmail.com**
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="60" height="60"/>
   </a>
-
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="60" height="60"/>
   </a>
-
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="60" height="60"/>
   </a>
-
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="react" width="60" height="60"/>
   </a>
-
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="60" height="60"/>
   </a>
-
-   
 </p>
 
 <p align="start">Backend: </p>
 <p align="center">
-
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="60" height="60"/>
   </a>
@@ -139,7 +114,6 @@ Reach Me At: **jhunguidef@gmail.com**
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="60" height="60"/>
   </a>
-   
 </p>
 
 <p align="start">Tools: </p>
@@ -154,9 +128,6 @@ Reach Me At: **jhunguidef@gmail.com**
     <img src="https://skillicons.dev/icons?i=wasm" alt="wamp" width="60" height="60"/>
   </a>
 </p>
-
-
-
 
 <p>________________________________________________________________________________________________________________________________________________</p>
 
@@ -173,8 +144,6 @@ Reach Me At: **jhunguidef@gmail.com**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yhvn-dev&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
-
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
